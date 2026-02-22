@@ -127,11 +127,11 @@ You can still experiment on other distros, but you do so at your own risk. The s
 
 **HTTPS:**
 ```bash
-git clone https://github.com/slippathetongue/openvpn3-dns-safelock.git
+git clone https://github.com/slipofthetongue/openvpn3-dns-safelock.git
 ```
 **SSH:**
 ```bash
-git clone git@github.com:slippathetongue/openvpn3-dns-safelock.git
+git clone git@github.com:slipofthetongue/openvpn3-dns-safelock.git
 ```
 
 2. Enter the project directory:
